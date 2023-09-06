@@ -1,5 +1,5 @@
 const firePixelsArray = []
-const fireWidth = 40
+const fireWidth = 90
 const fireHeight = 40
 let debug = false
 var sentido = 0
